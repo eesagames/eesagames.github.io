@@ -1,11 +1,23 @@
-## EESA GAMES
+## The Eesa Games Project.
 
-OPEN SOURCE
 
-yall can skid of this if u need remove the auth/password and u good ong
+- Developed by @yezib on discord.
 
-ty babies enjoy!
 
-(free password is "hi")
 
-unblocked
+  Private Sourced. Password Gated. Made for Eesa.
+
+
+
+By using Eesa Games, you understand:
+
+This is NOT meant for unlawful purposes.
+
+Not meant for school.
+
+Not meant for cyberbullying.
+
+Not meant for any form of hate or harassment.
+
+THIS IS NO LONGER MAINTAINED.
+- I WILL NOT HAVE ACCESS TO THIS ANYMORE
