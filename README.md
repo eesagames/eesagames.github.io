@@ -1,23 +1,23 @@
-## The Eesa Games Project.
+  #                                                  The Eesa Games Project.
 
 
-- Developed by @yezib on discord.
+The best open-sourced games network - chat, play, watch your favourite movies, EesaGames has it all!#
+
+Free Password:
+
+"hi"
 
 
+Please note that this is **NOT** intended for school, unlawful use, not meant for any form of hate or harrasment, or anything that doesn't correlate with EG's TOS - *soon*.
 
-  Private Sourced. Password Gated. Made for Eesa.
+Link:
 
+www.eesagames.github.io
 
+This is still maintained!
 
-By using Eesa Games, you understand:
+Current Version:
 
-This is NOT meant for unlawful purposes.
+3.8.
 
-Not meant for school.
-
-Not meant for cyberbullying.
-
-Not meant for any form of hate or harassment.
-
-THIS IS NO LONGER MAINTAINED.
-- I WILL NOT HAVE ACCESS TO THIS ANYMORE
+Eesa 3 AI out NOW!
