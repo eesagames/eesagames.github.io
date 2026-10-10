@@ -34,14 +34,23 @@ and btw your data is not always safe. I mean, all passwords are stored in the so
 
 -- ai --
 
+models:
 
-3 models
+Eesa Instant (Low, High)
+Eesa 3 Opium (Low, Medium, High, Max)
+Eesa Folio (Low, Medium, High, X-High, Max)
+Eesa Agent
+Eesa Agent Swarm
+Eesa Images
+ - might remove folio and/or agent
 
 
-eesa r2
-eesa 2.5
-eesa 3 flash
 
+--stuff--
+
+eubg isnt really monitored as such - i am not responsible for anything that happens here.
+
+enjoy eubg - open sourced, ad-free, simple sign in, quick token log-in, 12.5k+ games, and sm more.
 
 tuffffffffffffff
 
